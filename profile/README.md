@@ -30,9 +30,6 @@ We duplicate the familiar loyalty points system already present in our daily liv
 2. Zero-Knowledge Identity - The protocol is able to identify users without knowing anything personal information about them
 3. Token-Bound Accounts - All the loyalty points (ERC-20) is unified and controllable under a single portfolio view within an NFT
 
-### Product Flow ⤵️
-
-
 ### How It's Made 🧰
 
 To achieve the vision, we leveraged several cutting-edge technology provided by our sponsors:
