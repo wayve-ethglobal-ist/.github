@@ -22,13 +22,7 @@ Wayve aims to empower consumers with the ability to direct ESG funds towards cre
 
 ✔️✔️ Unique Value Proposition
 
-We duplicate the familiar loyalty points system already present in our daily lives, and putting them onchain as ERC-20 tokens, ensuring interoperability across the Ethereum ecosystem. Account Abstraction enables ordinary consumers to easily vote on the allocation of ESG funds, all while safeguarding private and sensitive user data.
-
-### Key Features 🔑
-
-1. Account Abstraction - Users need not know how to use Ethereum, and they don't need to pay gas fees to conduct onchain transactions
-2. Zero-Knowledge Identity - The protocol is able to identify unique users without knowing any personal information about them
-3. Token-Bound Accounts - All the loyalty points (ERC-20) is unified and controllable under a single portfolio view within an NFT
+We duplicate the familiar loyalty points system already present in our daily lives, and putting them onchain as ERC-20 tokens, ensuring interoperability across the Ethereum ecosystem. Account Abstraction enables ordinary consumers to easily vote on the allocation of ESG funds, all while safeguarding private and sensitive user data with zero-knowledge identity.
 
 ### How It's Made 🧰
 
