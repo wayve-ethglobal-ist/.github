@@ -54,25 +54,25 @@ Live Demo
 
 Smart Contracts
 
-Arbitrum: 0x544515BB43Cd609a351abeD097a2d43C1C75a994 **(erc6551 account implementation)**
+**Arbitrum**: 0x544515BB43Cd609a351abeD097a2d43C1C75a994 _(erc6551 account implementation)_
 
-Base:
+**Base**:
 
-Celo: 0x000000006551c19487814612e58FE06813775758 **(erc6551 registry)** & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 **(erc6551 account implementation)**
+**Celo**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
 
-Gnosis Chain: 0x544515BB43Cd609a351abeD097a2d43C1C75a994 **(erc6551 account implementation)**
+**Gnosis Chain**: 0x544515BB43Cd609a351abeD097a2d43C1C75a994 _(erc6551 account implementation)_
 
-Linea:
+**Linea**:
 
-Mantle: 0x000000006551c19487814612e58FE06813775758 **(erc6551 registry)** & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 **(erc6551 account implementation)**
+**Mantle**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
 
-Neon EVM: 0x054419ffbaaec39fa32e45a873eef8cfebcac7a0 **(erc6551 registry)** & 0x2FAF333249e0e1c41aa2efc5697a0Fce2Ebaa87f **(erc6551 account implementation)**
+**Neon EVM**: 0x054419ffbaaec39fa32e45a873eef8cfebcac7a0 _(erc6551 registry)_ & 0x2FAF333249e0e1c41aa2efc5697a0Fce2Ebaa87f _(erc6551 account implementation)_
 
-Polygon zkEVM: 0x000000006551c19487814612e58FE06813775758 **(erc6551 registry)** & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 **(erc6551 account implementation)**
+**Polygon zkEVM**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
 
-Scroll: 0x30F53D30C8aE4a8Ad6115117aEc1FE62db7e6AE1 **(erc6551 account implementation)**
+**Scroll**: 0x30F53D30C8aE4a8Ad6115117aEc1FE62db7e6AE1 _(erc6551 account implementation)_
 
-zkSync Era: 0x8b7900E312111A7e94C6006BB9e468A54105Eb1e **(erc6551 registry)**
+**zkSync Era**: 0x8b7900E312111A7e94C6006BB9e468A54105Eb1e _(erc6551 registry)_
 
 ### Getting Started 💪
 
