@@ -49,21 +49,21 @@ Smart Contracts
 
 **Base Goerli**: 0x07A2C46436F6fc96848E9ee32DAdA491B5CE2aEd _(Account Abstraction)_ & Paymaster: https://paymaster.base.org
 
-**Celo**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
+**Celo Alfajores**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
 
 **Gnosis Chain**: 0x544515BB43Cd609a351abeD097a2d43C1C75a994 _(erc6551 account implementation)_
 
-**Linea**:
+**Linea Goerli**: 0x07A2C46436F6fc96848E9ee32DAdA491B5CE2aEd _(Account Abstraction)_ & Paymaster: https://paymaster.base.org
 
 **Mantle**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
 
-**Neon EVM**: 0x054419ffbaaec39fa32e45a873eef8cfebcac7a0 _(erc6551 registry)_ & 0x2FAF333249e0e1c41aa2efc5697a0Fce2Ebaa87f _(erc6551 account implementation)_
+**Neon EVM testnet**: 0x054419ffbaaec39fa32e45a873eef8cfebcac7a0 _(erc6551 registry)_ & 0x2FAF333249e0e1c41aa2efc5697a0Fce2Ebaa87f _(erc6551 account implementation)_
 
-**Polygon zkEVM**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
+**Polygon zkEVM testnet**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
 
-**Scroll**: 0x30F53D30C8aE4a8Ad6115117aEc1FE62db7e6AE1 _(erc6551 account implementation)_
+**Scroll Sepolia**: 0x30F53D30C8aE4a8Ad6115117aEc1FE62db7e6AE1 _(erc6551 account implementation)_
 
-**zkSync Era**: 0x8b7900E312111A7e94C6006BB9e468A54105Eb1e _(erc6551 registry)_
+**zkSync Era testnet**: 0x8b7900E312111A7e94C6006BB9e468A54105Eb1e _(erc6551 registry)_
 
 ### Getting Started 💪
 
