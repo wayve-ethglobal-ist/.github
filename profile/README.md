@@ -81,7 +81,7 @@ git clone https://github.com/wayve-ethglobal-ist/wayve-app
 cd wayve-app
 
 # Install dependencies
-npm install
+npm install --legacy-peer-deps
 
 # Run app
 npm run dev
