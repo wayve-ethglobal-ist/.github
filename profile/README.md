@@ -1,10 +1,12 @@
 ##(🌱) Wayve - The ESG funds governing protocol
 
 ###Intro 👋
+
 What is Wayve?
 Wayve is a protocol that empowers consumer loyalty points with the ability to govern ESG funds.
 
 ###Project Description 📔
+
 ❗❗ Problem Statement
 This project aims to tackle 2 key problems with how Environmental, Social, and Governance (ESG) initiatives are being carried out.
 
@@ -19,6 +21,7 @@ Wayve aims to empower consumers with the ability to direct ESG funds towards cre
 We duplicate the familiar loyalty points system already present in our daily lives, and putting it onchain as an ERC-20, ensuring interoperability across the Ethereum ecosystem. Account Abstraction enables general consumers to easily vote on the allocation of ESG funds, all while safeguarding private and sensitive user data.
 
 ###Key Features 🔑
+
 1. Account Abstraction - Users need not know how to use Ethereum, and theu don't need to pay gas fees to conduct onchain transactions
 2. Zero-Knowledge Identity - The protocol is able to identify users without knowing anything personal information about them
 3. Token-Bound Accounts - All the loyalty points (ERC-20) is unified and controllable under a single portfolio view within an NFT
@@ -27,6 +30,7 @@ We duplicate the familiar loyalty points system already present in our daily liv
 
 
 ###How It's Made 🧰
+
 To achieve the vision, we leveraged several cutting-edge technology provided by our sponsors:
 
 1. Safe Account Abstraction SDK & WalletConnect SDK & Base Paymaster - Handles user smart wallet creation and onchain transactions (+ gas sponsors) without the user needing to know how to use Ethereum. On the vendor's side, it enables seamless issuance of loyalty points to consumers, submission of ESG proposals onchain, and publishing loyalty points issuance policy.
@@ -40,6 +44,7 @@ To achieve the vision, we leveraged several cutting-edge technology provided by 
 
 
 ###Deployments
+
 Live Demo
 
 
@@ -55,6 +60,7 @@ Polygon zkEVM:
 Scroll:
 
 ###Getting Started
+
 _We recommend installing Wayve by building from the source code as follows:_
 
 ```bash
