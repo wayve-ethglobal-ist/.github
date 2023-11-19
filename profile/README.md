@@ -55,7 +55,7 @@ Smart Contracts
 
 **Linea**:
 
-**Mantle**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
+**Mantle**: [test](https://etherscan.io/0x000000006551c19487814612e58FE06813775758) _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
 
 **Neon EVM**: 0x054419ffbaaec39fa32e45a873eef8cfebcac7a0 _(erc6551 registry)_ & 0x2FAF333249e0e1c41aa2efc5697a0Fce2Ebaa87f _(erc6551 account implementation)_
 
