@@ -45,7 +45,7 @@ Live Demo
 
 Smart Contracts
 
-**Arbitrum**: 0x544515BB43Cd609a351abeD097a2d43C1C75a994 _(erc6551 account implementation)_
+**Arbitrum Goerli**: 0x544515BB43Cd609a351abeD097a2d43C1C75a994 _(erc6551 account implementation)_
 
 **Base Goerli**: 0x07A2C46436F6fc96848E9ee32DAdA491B5CE2aEd _(Account Abstraction)_ & Paymaster: https://paymaster.base.org
 
