@@ -47,7 +47,7 @@ Smart Contracts
 
 **Arbitrum**: 0x544515BB43Cd609a351abeD097a2d43C1C75a994 _(erc6551 account implementation)_
 
-**Base**:
+**Base Goerli**: 0x07A2C46436F6fc96848E9ee32DAdA491B5CE2aEd _(Account Abstraction)_ & Paymaster: https://paymaster.base.org
 
 **Celo**: 0x000000006551c19487814612e58FE06813775758 _(erc6551 registry)_ & 0xB4954D821815f7DEC998E08c8c3D303DCF0E6586 _(erc6551 account implementation)_
 
