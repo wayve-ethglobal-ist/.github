@@ -47,23 +47,32 @@ To achieve the vision, we leveraged several cutting-edge technology provided by 
 ### The Stack ⚙️
 
 
-### Deployments
+### Deployments 🚀
 
 Live Demo
 
 
 Smart Contracts
+
 Arbitrum:
+
 Base:
+
 Cartesi:
+
 Celo:
+
 Gnosis Chain:
+
 Linea:
+
 Neon EVM:
+
 Polygon zkEVM:
+
 Scroll:
 
-### Getting Started
+### Getting Started 💪
 
 _We recommend installing Wayve by building from the source code as follows:_
 
