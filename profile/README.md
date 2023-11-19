@@ -1,5 +1,9 @@
 ## (🌱) Wayve - The ESG funds governing protocol
 
+### ETHGlobal Istanbul Project Showcase
+
+https://ethglobal.com/showcase/wayve-4kzwf
+
 ### Intro 👋
 
 What is Wayve?
