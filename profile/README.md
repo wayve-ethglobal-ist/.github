@@ -4,13 +4,13 @@
 
 What is Wayve?
 
-Wayve is a protocol that empowers consumer loyalty points with the ability to govern ESG funds.
+Wayve is a protocol that empowers consumer loyalty points with the ability to govern Environmental, Social, and Governance (ESG) funds.
 
 ### Project Description 📔
 
 ❗❗ Problem Statement
 
-This project aims to tackle 2 key problems with how Environmental, Social, and Governance (ESG) initiatives are being carried out.
+This project aims to tackle 2 key problems with how ESG initiatives are being carried out.
 
 1. Currently, the ESG initiatives being carried out by businesses & corporations are opaque. There is no easy way for the general public to verify and audit the ESG efforts done or the impact they have made.
 
